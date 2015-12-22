@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}B.E. PROJECT 
+${licensePrefix}THE BOOK CIPHER ${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
